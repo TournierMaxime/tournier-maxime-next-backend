@@ -8,8 +8,8 @@ exports.getAllData = (req, res, next) => {
 };
 
 exports.getOneData = (req, res, next) => {
-  const id = Projects.projects.find(
-    (project) => project.id === Number(req.params.id)
+  const id = Projects.projects.map((i) =>
+    i.find((project) => project.id === Number(req.params.id))
   );
 
   if (req.method === "GET") {
