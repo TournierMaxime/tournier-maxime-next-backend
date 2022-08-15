@@ -84,7 +84,12 @@ const Data = {
             ],
           },
         ],
-        text: "Passionné par les nouvelles technologies. Mes premières expériences en tant que développeur remontent à 2008. Je me suis formé en autodidacte sur le \"site du zéro\" qui est devenu OpenClassRooms. D'abord en apprenant HTML et CSS. Puis c'est en 2016 que j'ai appris PHP et MySQL. Cet apprentissage m'a permis de créer mon premier site internet personnel. En 2021 j'ai décidé de me former pour devenir développeur/intégrateur web notamment sur Javascript, ReactJS et NodeJS.",
+        text_1:
+          "Après une formation réussie sur le parcours 'Développeur Web' chez OpenClassRooms. Mon orientation s'est tourné vers la librairie React qui offre une plus grande flexibilité dans la création d'application web.",
+        text_2:
+          "Toujours à la recherche de nouvelle création, mon apprentissage m'a permis de développer tout au long de mon cursus de la persévérance et de l'innovation.",
+        text_3:
+          "Rigoureux et méthodique, l'organisation d'un code propre et claire font partie intégrante de mon travail. Cela contribue à de bonnes pratiques et permet une production beaucoup plus lisible.",
       },
       realisation: {
         title: "Projets",
@@ -361,6 +366,9 @@ const Data = {
         textarea: "Votre message",
         submit: "Envoyer",
       },
+      footer: {
+        text: "Passionné par les nouvelles technologies. Mes premières expériences en tant que développeur remontent à 2008. Je me suis formé en autodidacte sur le \"site du zéro\" qui est devenu OpenClassRooms. D'abord en apprenant HTML et CSS. Puis c'est en 2016 que j'ai appris PHP et MySQL. Cet apprentissage m'a permis de créer mon premier site internet personnel. En 2021 j'ai décidé de me former pour devenir développeur/intégrateur web notamment sur Javascript, ReactJS et NodeJS.",
+      },
     },
   ],
   1: [
@@ -448,7 +456,12 @@ const Data = {
             ],
           },
         ],
-        text: "Passionate about new technologies. My first experiences as a developer date back to 2008. I trained as an autodidact on the 'zero site' which became OpenClassRooms. First by learning HTML and CSS. Then it was in 2016 that I learned PHP and MySQL. This learning allowed me to create my first personal website. In 2021 I decided to train myself to become a frontend developer, particularly on Javascript, ReactJS and NodeJS.",
+        text_1:
+          "After successful training on the 'Web Developer' course at OpenClassRooms. My orientation turned to the React library which offers greater flexibility in the creation of web applications.",
+        text_2:
+          "Always in search of new creation, my learning allowed me to develop perseverance and innovation throughout my course.",
+        text_3:
+          "Rigorous and methodical, the organization of a clean and clear code is an integral part of my work. This contributes to good practices and allows a much more readable production.",
       },
 
       realisation: {
@@ -728,6 +741,9 @@ const Data = {
         inputEmail: "Your email",
         textarea: "Your message",
         submit: "Send",
+      },
+      footer: {
+        text: "Passionate about new technologies. My first experiences as a developer date back to 2008. I trained as an autodidact on the 'zero site' which became OpenClassRooms. First by learning HTML and CSS. Then it was in 2016 that I learned PHP and MySQL. This learning allowed me to create my first personal website. In 2021 I decided to train myself to become a frontend developer, particularly on Javascript, ReactJS and NodeJS.",
       },
     },
   ],
