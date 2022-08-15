@@ -4,6 +4,8 @@ const Projects = {
       {
         id: 1,
         more: "En savoir plus",
+        skillTitle: "Skills",
+        toolsUsed: "Technologies Utilisées",
         project: "Projet 1",
         name: "Reservia",
         image: "Reservia",
@@ -36,6 +38,8 @@ const Projects = {
       {
         id: 2,
         more: "En savoir plus",
+        skillTitle: "Skills",
+        toolsUsed: "Technologies Utilisées",
         project: "Projet 2",
         name: "OhMyFood",
         image: "OhMyFood",
@@ -64,6 +68,8 @@ const Projects = {
       {
         id: 3,
         more: "En savoir plus",
+        skillTitle: "Skills",
+        toolsUsed: "Technologies Utilisées",
         project: "Projet 3",
         name: "La Chouette Agence",
         image: "LaChouetteAgence",
@@ -96,6 +102,8 @@ const Projects = {
       {
         id: 4,
         more: "En savoir plus",
+        skillTitle: "Skills",
+        toolsUsed: "Technologies Utilisées",
         project: "Projet 4",
         name: "Kanap",
         image: "Kanap",
@@ -122,6 +130,8 @@ const Projects = {
       {
         id: 5,
         more: "En savoir plus",
+        skillTitle: "Skills",
+        toolsUsed: "Technologies Utilisées",
         project: "Projet 5",
         name: "Piquante",
         image: "Piquante",
@@ -155,6 +165,8 @@ const Projects = {
       {
         id: 6,
         more: "En savoir plus",
+        skillTitle: "Skills",
+        toolsUsed: "Technologies Utilisées",
         project: "Projet 6",
         name: "Groupomania",
         image: "Groupomania",
@@ -190,6 +202,8 @@ const Projects = {
       {
         id: 7,
         more: "En savoir plus",
+        skillTitle: "Skills",
+        toolsUsed: "Technologies Utilisées",
         project: "Project 7",
         name: "Videotek",
         image: "Videotek",
@@ -226,6 +240,8 @@ const Projects = {
       {
         id: 1,
         more: "More",
+        skillTitle: "Skills",
+        toolsUsed: "Technologies Used",
         project: "Project 1",
         name: "Reservia",
         image: "Reservia",
@@ -258,6 +274,8 @@ const Projects = {
       {
         id: 2,
         more: "More",
+        skillTitle: "Skills",
+        toolsUsed: "Technologies Used",
         project: "Project 2",
         name: "OhMyFood",
         image: "OhMyFood",
@@ -287,6 +305,8 @@ const Projects = {
       {
         id: 3,
         more: "More",
+        skillTitle: "Skills",
+        toolsUsed: "Technologies Used",
         project: "Project 3",
         name: "La Chouette Agence",
         image: "LaChouetteAgence",
@@ -320,6 +340,8 @@ const Projects = {
       {
         id: 4,
         more: "More",
+        skillTitle: "Skills",
+        toolsUsed: "Technologies Used",
         project: "Project 4",
         name: "Kanap",
         image: "Kanap",
@@ -347,6 +369,8 @@ const Projects = {
       {
         id: 5,
         more: "More",
+        skillTitle: "Skills",
+        toolsUsed: "Technologies Used",
         project: "Project 5",
         name: "Piquante",
         image: "Piquante",
@@ -381,6 +405,8 @@ const Projects = {
       {
         id: 6,
         more: "More",
+        skillTitle: "Skills",
+        toolsUsed: "Technologies Used",
         project: "Project 6",
         name: "Groupomania",
         image: "Groupomania",
@@ -417,6 +443,8 @@ const Projects = {
       {
         id: 7,
         more: "More",
+        skillTitle: "Skills",
+        toolsUsed: "Technologies Used",
         project: "Project 7",
         name: "Videotek",
         image: "Videotek",
