@@ -96,7 +96,7 @@ const Data = {
             more: "En savoir plus",
             project: "Projet 1",
             name: "Reservia",
-            image: "../public/assets/images/Reservia.png",
+            image: "Reservia",
             width: 900,
             height: 500,
             description:
@@ -128,7 +128,7 @@ const Data = {
             more: "En savoir plus",
             project: "Projet 2",
             name: "OhMyFood",
-            image: "../public/assets/images/OhMyFood.png",
+            image: "OhMyFood",
             width: 900,
             height: 500,
             description:
@@ -156,7 +156,7 @@ const Data = {
             more: "En savoir plus",
             project: "Projet 3",
             name: "La Chouette Agence",
-            image: "../public/assets/images/LaChouetteAgence.png",
+            image: "LaChouetteAgence",
             width: 900,
             height: 500,
             description:
@@ -188,7 +188,7 @@ const Data = {
             more: "En savoir plus",
             project: "Projet 4",
             name: "Kanap",
-            image: "../public/assets/images/Kanap.png",
+            image: "Kanap",
             width: 900,
             height: 500,
             description:
@@ -214,7 +214,7 @@ const Data = {
             more: "En savoir plus",
             project: "Projet 5",
             name: "Piquante",
-            image: "../public/assets/images/Piquante.png",
+            image: "Piquante",
             width: 900,
             height: 500,
             description:
@@ -247,7 +247,7 @@ const Data = {
             more: "En savoir plus",
             project: "Projet 6",
             name: "Groupomania",
-            image: "../public/assets/images/Groupomania.png",
+            image: "Groupomania",
             width: 900,
             height: 500,
             description:
@@ -282,7 +282,7 @@ const Data = {
             more: "En savoir plus",
             project: "Project 7",
             name: "Videotek",
-            image: "../public/assets/images/Videotek.png",
+            image: "Videotek",
             width: 900,
             height: 500,
             description:
@@ -461,7 +461,7 @@ const Data = {
             more: "More",
             project: "Project 1",
             name: "Reservia",
-            image: "../public/assets/images/Reservia.png",
+            image: "Reservia",
             width: 900,
             height: 500,
             description:
@@ -493,7 +493,7 @@ const Data = {
             more: "More",
             project: "Project 2",
             name: "OhMyFood",
-            image: "../public/assets/images/OhMyFood.png",
+            image: "OhMyFood",
             width: 900,
             height: 500,
             description:
@@ -522,7 +522,7 @@ const Data = {
             more: "More",
             project: "Project 3",
             name: "La Chouette Agence",
-            image: "../public/assets/images/LaChouetteAgence.png",
+            image: "LaChouetteAgence",
             width: 900,
             height: 500,
             description:
@@ -555,7 +555,7 @@ const Data = {
             more: "More",
             project: "Project 4",
             name: "Kanap",
-            image: "../public/assets/images/Kanap.png",
+            image: "Kanap",
             width: 900,
             height: 500,
             description:
@@ -582,7 +582,7 @@ const Data = {
             more: "More",
             project: "Project 5",
             name: "Piquante",
-            image: "../public/assets/images/Piquante.png",
+            image: "Piquante",
             width: 900,
             height: 500,
             description:
@@ -616,7 +616,7 @@ const Data = {
             more: "More",
             project: "Project 6",
             name: "Groupomania",
-            image: "../public/assets/images/Groupomania.png",
+            image: "Groupomania",
             width: 900,
             height: 500,
             description:
@@ -652,7 +652,7 @@ const Data = {
             more: "More",
             project: "Project 7",
             name: "Videotek",
-            image: "../public/assets/images/Videotek.png",
+            image: "Videotek",
             width: 900,
             height: 500,
             description:
