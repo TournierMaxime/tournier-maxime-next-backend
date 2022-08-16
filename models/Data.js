@@ -330,8 +330,23 @@ const Data = {
             period: "Mai 2021 - Avril 2022",
             location: "En ligne",
             company: "OpenClassRooms",
-            description:
-              "Intégration HTML et CSS à partir d'une maquette. Création d'animations CSS avancées avec SASS. Optimisation SEO d'un site web existant. Création d'un site e-commerce et d'une API sécurisée. Création d'un réseau social d'entreprise avec React.",
+            description: [
+              {
+                text: "Amélioration et optimisation d'un site internet d'une agence immobilière",
+              },
+              {
+                text: "Intégration et interaction avec une API REST sur un site e-commerce en Javascript",
+              },
+              {
+                text: "Implémentation d'une architecture backend sécurisée pour une application de sauce piquante",
+              },
+              {
+                text: "Conception et développement fullstack d'un réseau social d'entreprise",
+              },
+              {
+                text: "Création et intégration fullstack d'une application web de cinéma",
+              },
+            ],
           },
           {
             id: 2,
@@ -339,8 +354,17 @@ const Data = {
             period: "Octobre 2019 - Juillet 2022",
             location: "Carros, France",
             company: "Pascal Coste Shopping",
-            description:
-              "Réceptions, stockages et réapprovisionnements de produits cosmétiques. Evolution dans l'entreprise en qualité de service clientèle. Remboursements, suivi de colis, litiges.",
+            description: [
+              {
+                text: "Gestion des litiges auprès de la clientèle et des fournisseurs",
+              },
+              {
+                text: "Communication directe avec les clients par téléphone ou via Zendesk",
+              },
+              {
+                text: "Pédagogue et formateur auprès des collaborateurs",
+              },
+            ],
           },
           {
             id: 3,
@@ -348,8 +372,17 @@ const Data = {
             period: "Octobre 2017 - Mai 2019",
             location: "La Valbonne, France",
             company: "Armée de Terre",
-            description:
-              "Secours militaire au combat. Prise en charge des victimes en milieu militaire comme civil. Participations aux opérations Sentinelle et Cuirasse",
+            description: [
+              {
+                text: "Analyse situationnelle du danger en zone de combat",
+              },
+              {
+                text: "Gestion et adaptabilité en situation de stress intense",
+              },
+              {
+                text: "Facilité à communiquer, partager et s'entraider",
+              },
+            ],
           },
         ],
       },
@@ -708,8 +741,23 @@ const Data = {
             period: "May 2021 - April 2022",
             location: "Online",
             company: "OpenClassRooms",
-            description:
-              "HTML and CSS integration from a model. Creating advanced CSS animations with SASS. SEO optimization of an existing website. Creation of an e-commerce site and a secure API. Creation of a corporate social network with React.",
+            description: [
+              {
+                text: "Improvement and optimization of a website of a real estate agency",
+              },
+              {
+                text: "Integration and interaction with a REST API on an e-commerce site in Javascript",
+              },
+              {
+                text: "Implementing a secure backend architecture for a hot sauce app",
+              },
+              {
+                text: "Fullstack design and development of a corporate social network",
+              },
+              {
+                text: "Creation and fullstack integration of a cinema web application",
+              },
+            ],
           },
           {
             id: 2,
@@ -717,8 +765,17 @@ const Data = {
             period: "October 2019 - July 2022",
             location: "Carros, France",
             company: "Pascal Coste Shopping",
-            description:
-              "Reception, storage and supply of cosmetic products. Evolution in the company in terms of customer service. Refunds, parcel tracking, disputes.",
+            description: [
+              {
+                text: "Dispute management with customers and suppliers",
+              },
+              {
+                text: "Direct communication with customers by phone or via Zendesk",
+              },
+              {
+                text: "Pedagogue and trainer for employees",
+              },
+            ],
           },
           {
             id: 3,
@@ -726,8 +783,17 @@ const Data = {
             period: "October 2017 - May 2019",
             location: "La Valbonne, France",
             company: "French Army",
-            description:
-              "Military combat relief. Support for victims in military and civilian environments. Participation in Sentinel and Cuirass operations.",
+            description: [
+              {
+                text: "Situational analysis of the danger in the combat zone",
+              },
+              {
+                text: "Management and adaptability in situations of intense stress",
+              },
+              {
+                text: "Easy to communicate, share and help each other",
+              },
+            ],
           },
         ],
       },
